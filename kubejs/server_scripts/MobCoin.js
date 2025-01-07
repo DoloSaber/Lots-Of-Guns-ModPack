@@ -14,5 +14,4 @@ EntityEvents.death( event => {
 
         }
     }
-
 })
